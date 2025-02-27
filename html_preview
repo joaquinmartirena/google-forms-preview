@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Open Graph para WhatsApp -->
+    <meta property="og:title" content="Pascua Joven 2025">
+    <meta property="og:description" content="Pascua Joven es un retiro del programa Cenáculo, organizado por la Sociedad de San Juan, en el que te invitamos a vivir una Semana Santa con Jesús.">
+    <meta property="og:image" content="/workspaces/google-forms-preview/img/image.png"> <!-- URL de tu imagen -->
+    <meta property="og:url" content="https://docs.google.com/forms/d/e/1FAIpQLSfgnovmA1aWQ9coyXSTfyZ-k1We7cgN5Ki2VuhSaj9JpVAzJQ/viewform?usp=dialog">
+    
+    <!-- Redirección al Google Forms -->
+    <meta http-equiv="refresh" content="1;url=https://docs.google.com/forms/d/e/1FAIpQLSfgnovmA1aWQ9coyXSTfyZ-k1We7cgN5Ki2VuhSaj9JpVAzJQ/viewform?usp=dialog">
+
+    <title>Redirigiendo...</title>
+</head>
+<body>
+    <p>Si no redirige automáticamente, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgnovmA1aWQ9coyXSTfyZ-k1We7cgN5Ki2VuhSaj9JpVAzJQ/viewform?usp=dialog">haz clic aquí</a>.</p>
+</body>
+</html>
